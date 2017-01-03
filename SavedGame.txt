@@ -1,0 +1,81 @@
+8
+
+-1
+-1
+-1
+1
+0
+0
+You are in a dark and putrid forest . Oh look a Mansion ! Do you have the guts to enter ?
+
+-1
+2
+0
+-1
+0
+0
+You are at the main hall you can hear ticking ... Sounds like a clock !
+
+1
+8
+-1
+3
+0
+0
+You are at the dinning room. I found the clock! There is something strange about this ... . A secret passage !!
+
+4
+-1
+2
+-1
+0
+0
+You are at a small and dark corridor! Look a door, isn´t an ordinary door , has an armor craved in it ... .I'm going to enter !
+
+-1
+3
+-1
+5
+0
+0
+You are at large room . There is a piano with a partiture . I'm going to play it. Another secret passage
+
+-1
+6
+4
+-1
+0
+0
+You are at a studio there are some strange notes about a Treasure hidden in the courtyard .There is only one way out of this room! 
+
+5
+-1
+-1
+7
+0
+0
+A small deposit room , there is a typewritter machine with a story about the Mansion! Horrible things happened here!
+
+-1
+-1
+6
+-1
+1
+0
+You are at the courtyard there is something next to that crypt!
+
+2
+-1
+1
+1
+0
+1
+You are in a small closet!
+
+joao
+100
+0
+0
+Resident
+10
+7
